@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>запись &#8212; Хроники мусорского беспредела</title>
+	<atom:link href="http://www.uncheck.org/tag/zapis/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.uncheck.org</link>
+	<description>я зла не помню - поэтому всё записываю</description>
+	<lastBuildDate>Wed, 17 Aug 2016 09:08:52 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>0.2 копейки</title>
+		<link>http://www.uncheck.org/0-2-kopejki.html</link>
+		<comments>http://www.uncheck.org/0-2-kopejki.html#respond</comments>
+		<pubDate>Fri, 15 Apr 2016 17:03:12 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Исследования]]></category>
+		<category><![CDATA[запись]]></category>
+		<category><![CDATA[минута]]></category>
+
+		<guid isPermaLink="false">http://www.uncheck.org/?p=2308</guid>
+		<description><![CDATA[<p>Активно обсуждается инициатива некоторых законотворцев об обеспечении обязательного хранения данных, передаваемых оператором связи. Бурное негодование высказывается либеральной общественностью по поводу дороговизны грядущей тоталитаризации зондирования личной жизни граждан под видом очередного «вихрь-антибурана».</p> <p>Но, как всегда, фокус негодования искусно направлен на негодный объект. Давайте посчитаем.</p> <p>Минута разговора у операторов (мтс, билайн, мегафон) стоит ориентировочно рубль. Один рубль.</p> [...]]]></description>
+				<content:encoded><![CDATA[<p>Активно обсуждается инициатива некоторых законотворцев об обеспечении обязательного хранения данных, передаваемых оператором связи. Бурное негодование высказывается либеральной общественностью по поводу дороговизны грядущей тоталитаризации зондирования личной жизни граждан под видом очередного «вихрь-антибурана».</p>
+<p>Но, как всегда, фокус негодования искусно направлен на негодный объект. Давайте посчитаем.</p>
+<p>Минута разговора у операторов (мтс, билайн, мегафон) стоит ориентировочно рубль. Один рубль.</p>
+<p>Винт на три терабайта стоит семь тысяч рублей. Минута записи разговора занимает максимум — мегабайт (на самом деле в разы меньше). Семь тысяч рублей делим на три миллиона минут, получаем:</p>
+<p>7000 / 3000000 = 0.002 рубля.</p>
+<p>0.2 копейки — стоимость носителя для хранения минуты по самым пессимистичным оценкам.</p>
+<p>Я лично искренне негодую, почему вороватая власть и коррумпированные спецслужбы не сделали такую полную запись всех разговоров гораздо раньше, лет хотя бы 20 назад. Это давно позволило бы победить весь терроризм, преступность и прочие антисоциальные явления.</p>
+<p>Вот что должно являться предметом негодования общественности. Почему эти миллиардные сверхприбыли от нефтяной ренты десятилетиями выводятся в офшоры или складываются в облигации правительства вероятного противника вместо того, чтобы служить делу обеспечения безопасности населения. Вопиющая профнепригодность.</p>
+<p><center><a href="http://www.uncheck.org/wp-content/uploads/2016/04/53B681BA9819C.jpg" rel="attachment wp-att-2309"><img src="http://www.uncheck.org/wp-content/uploads/2016/04/53B681BA9819C.jpg" alt="53B681BA9819C" width="400" height="300" class="alignnone size-full wp-image-2309" srcset="http://www.uncheck.org/wp-content/uploads/2016/04/53B681BA9819C.jpg 400w, http://www.uncheck.org/wp-content/uploads/2016/04/53B681BA9819C-300x225.jpg 300w, http://www.uncheck.org/wp-content/uploads/2016/04/53B681BA9819C-150x113.jpg 150w" sizes="(max-width: 400px) 100vw, 400px" /></a></center></p>
+<p>Источник: <a href="https://uncheckorg.wordpress.com/2016/04/15/0-2-kopeiki/">https://uncheckorg.wordpress.com/2016/04/15/0-2-kopeiki/</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.uncheck.org/0-2-kopejki.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

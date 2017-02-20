@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>менты &#8212; Хроники мусорского беспредела</title>
+	<atom:link href="http://www.uncheck.org/tag/menty/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.uncheck.org</link>
+	<description>я зла не помню - поэтому всё записываю</description>
+	<lastBuildDate>Wed, 17 Aug 2016 09:08:52 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Шоколад ни в чем не виноват</title>
+		<link>http://www.uncheck.org/shokolad-ni-v-chem-ne-vinovat.html</link>
+		<comments>http://www.uncheck.org/shokolad-ni-v-chem-ne-vinovat.html#respond</comments>
+		<pubDate>Sun, 28 Aug 2011 13:20:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Ответы]]></category>
+		<category><![CDATA[беспредел]]></category>
+		<category><![CDATA[мвд]]></category>
+		<category><![CDATA[менты]]></category>
+
+		<guid isPermaLink="false">http://www.samalex.org/?p=18</guid>
+		<description><![CDATA[<p>Ранее уже сообщалось что меня лишили прав за пьянку. Учитывая что я не пью алкоголь этот факт вызывал охуение. В суде второй (аппеляционной) инстанции неким чудесным образом удалось без занесений и звонков отменить незаконное решение и отстоять мои гражданские и водительские права. Но беспредел сотворенный бандой врачей, мусоров, экспертов и судей трабовал принятия мер о [...]]]></description>
+				<content:encoded><![CDATA[<p>Ранее уже сообщалось что меня лишили прав за пьянку. Учитывая что я не пью алкоголь этот факт вызывал охуение. В суде второй (аппеляционной) инстанции неким чудесным образом удалось без занесений и звонков <a href="http://www.uncheck.org/nashe-reshitelnoe-net-alkogolizmu.html">отменить незаконное решение</a> и отстоять мои гражданские и водительские права. Но беспредел сотворенный бандой врачей, мусоров, экспертов и судей трабовал принятия мер о чем и было написано в <a href="http://www.uncheck.org/pismo-pravitelyam.html">обращении к Путину, Медведеву, Нургалиеву и Голиковой</a>. Путин отправил обращение в областную прокуратуру, Медведев в минздрав (там теперь два экземпляра), Нургалиев в местное увд. Что сделала с обращениями Голикова пока неизвестно. Уже был получен ответ по линии Нургалиевского экземпляра жалобы от местных ментов:</p>
+<p><a href="http://www.uncheck.org/wp-content/uploads/2011/07/IMG_1675_modified.jpg"><img class="alignnone size-medium wp-image-364" title="ответ ментов" src="http://www.uncheck.org/wp-content/uploads/2011/07/IMG_1675_modified-224x300.jpg" alt="" width="224" height="300" /></a></p>
+<p>Там написано что давно известно жителям этой страны &#8212; менты законов и подзаконных актов знать не обязаны. И поэтому ни в чем не виноваты они в натуре. В натуре пацаны к успеху шли. Не получилось. Не фартануло.</p>
+<p><iframe width="420" height="315" src="http://www.youtube.com/embed/3YUNQoPrJGk" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.uncheck.org/shokolad-ni-v-chem-ne-vinovat.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
